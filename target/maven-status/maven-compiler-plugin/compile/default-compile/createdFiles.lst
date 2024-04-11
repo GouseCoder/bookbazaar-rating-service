@@ -13,6 +13,7 @@ com\bookbazaar\hub\ratingservice\utils\AppConstants.class
 com\bookbazaar\hub\ratingservice\utils\SwaggerConstants.class
 com\bookbazaar\hub\ratingservice\entity\Review.class
 com\bookbazaar\hub\ratingservice\utils\JacksonUtil.class
+com\bookbazaar\hub\ratingservice\filter\CorsConfig.class
 com\bookbazaar\hub\ratingservice\dto\ReviewResponseDto.class
 com\bookbazaar\hub\ratingservice\utils\ResponseKeyConstants.class
 com\bookbazaar\hub\ratingservice\entity\Book.class

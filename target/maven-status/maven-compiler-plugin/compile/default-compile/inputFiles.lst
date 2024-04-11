@@ -4,6 +4,7 @@ D:\Personal Projects\BookBazaarHub\bookbazaar-rating-service\src\main\java\com\b
 D:\Personal Projects\BookBazaarHub\bookbazaar-rating-service\src\main\java\com\bookbazaar\hub\ratingservice\utils\JacksonUtil.java
 D:\Personal Projects\BookBazaarHub\bookbazaar-rating-service\src\main\java\com\bookbazaar\hub\ratingservice\repo\BooksRepository.java
 D:\Personal Projects\BookBazaarHub\bookbazaar-rating-service\src\main\java\com\bookbazaar\hub\ratingservice\entity\UserInfo.java
+D:\Personal Projects\BookBazaarHub\bookbazaar-rating-service\src\main\java\com\bookbazaar\hub\ratingservice\filter\CorsConfig.java
 D:\Personal Projects\BookBazaarHub\bookbazaar-rating-service\src\main\java\com\bookbazaar\hub\ratingservice\dto\ReviewResponseDto.java
 D:\Personal Projects\BookBazaarHub\bookbazaar-rating-service\src\main\java\com\bookbazaar\hub\ratingservice\service\ReviewService.java
 D:\Personal Projects\BookBazaarHub\bookbazaar-rating-service\src\main\java\com\bookbazaar\hub\ratingservice\utils\ApiHttpResponse.java
