@@ -1,0 +1,4 @@
+2024-04-11 19:11:37,351 INFO com.bookbazaar.hub.ratingservice.BookbazaarRatingServiceApplication [main] Starting BookbazaarRatingServiceApplication v0.0.1-SNAPSHOT using Java 11.0.19 on Gouse_pc with PID 12740 (D:\Personal Projects\BookBazaarHub\bookbazaar-rating-service\target\bookbazaar-rating-service-0.0.1-SNAPSHOT.jar started by gouse in D:\Personal Projects\BookBazaarHub\bookbazaar-rating-service\target)
+2024-04-11 19:11:37,355 DEBUG com.bookbazaar.hub.ratingservice.BookbazaarRatingServiceApplication [main] Running with Spring Boot v2.7.8, Spring v5.3.25
+2024-04-11 19:11:37,356 INFO com.bookbazaar.hub.ratingservice.BookbazaarRatingServiceApplication [main] No active profile set, falling back to 1 default profile: "default"
+2024-04-11 19:11:54,470 INFO com.bookbazaar.hub.ratingservice.BookbazaarRatingServiceApplication [main] Started BookbazaarRatingServiceApplication in 17.998 seconds (JVM running for 19.367)
